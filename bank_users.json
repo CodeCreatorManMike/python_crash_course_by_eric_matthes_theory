@@ -1,0 +1,24 @@
+{
+    "michaeljonesincorporated@gmail.com": {
+        "password": "Moneymanmike!100",
+        "account_status": true,
+        "current_account_balance": "229.00",
+        "savings_account_balance": "500.00",
+        "account_currency": "GBP",
+        "overdraft_limit": "1000.00",
+        "overdraft_used": "0.00",
+        "transfer_count": 2,
+        "deposit_count": 1
+    },
+    "lukefreitag@gmail.com": {
+        "password": "lukemoney",
+        "account_status": true,
+        "current_account_balance": "342.50",
+        "savings_account_balance": "0.00",
+        "account_currency": "GBP",
+        "overdraft_limit": "1000.00",
+        "overdraft_used": "0.00",
+        "transfer_count": 0,
+        "deposit_count": 1
+    }
+}
